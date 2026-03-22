@@ -12,17 +12,17 @@ I build end-to-end ML apps — from model training to deployed products.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| 🏥 Obesity Risk Predictor | End-to-end ML app — trained & benchmarked multiple models, built REST API, deployed full-stack | Python · Flask · HTML/CSS/JS · Railway · Vercel | [Live](#) |
-| 🤖 JhottaGPT | Gen AI chatbot | Python · [stack] | [Repo](#) |
-| 🎮 TicTacToe | Interactive game with clean UI | Python · Streamlit | [Repo](#) |
+| Obesity Risk Predictor | End-to-end ML app — trained & benchmarked multiple models, built REST API, deployed full-stack | Python · Flask · HTML/CSS/JS · Railway · Vercel | [Live](#) |
+|JhottaGPT | Gen AI chatbot | Python · [stack] | [Repo](#) |
+|TicTacToe | Interactive game with clean UI | Python · Streamlit | [Repo](#) |
 
 ---
 
-## 🛠 Stack
+## Stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
