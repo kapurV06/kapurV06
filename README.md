@@ -79,4 +79,4 @@ Trained and benchmarked multiple classification models to predict individual obe
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-· varish@email.com
+· kapur.varish75@email.com
