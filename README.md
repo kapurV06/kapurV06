@@ -1,82 +1,43 @@
-# Hey, I'm Varish 👋
+# Varish Kapur
 
-CS undergrad @ Thapar Institute · ML Engineering & Fintech track  
-I build end-to-end data & AI systems — from model training to deployed products.
+CS undergrad @ Thapar Institute (2028) · building at the intersection of ML and fintech
 
----
-
-## 🔨 Featured Projects
-
-### 🛡️ FinSentinel — Stock Anomaly Detection System
-> End-to-end intelligent trading surveillance platform
-
-Combines ML, Deep Learning, Reinforcement Learning, and Agentic AI to detect anomalous stock behavior in real time — surfaced through a Bloomberg-style Streamlit dashboard.
-
-- **Isolation Forest** for unsupervised anomaly detection
-- **LSTM Autoencoder** for temporal pattern reconstruction
-- **DQN (Deep Q-Network)** for adaptive trading signal generation
-- **Agentic AI layer** for autonomous decision-making and alerting
-- Research paper drafted targeting IEEE ICDM / ACM SIGKDD
-
-`Python` `PyTorch` `Streamlit` `Plotly` `Reinforcement Learning` `LLM Agents`
+I'm interested in how data systems break under pressure — anomaly detection, fraud, risk. Most of my work sits somewhere between research-y and actually shipped.
 
 ---
 
-### 📦 Retail Inventory Intelligence Platform
-> Solving the $1.75 trillion global stockout crisis with end-to-end data analytics
+## Projects
 
-Full-stack retail analytics platform that answers: *which SKUs, in which stores, will stock out next — and what does it cost?*
+### FinSentinel
+Stock anomaly detection that layers three different approaches on top of each other — Isolation Forest catches the statistical outliers, an LSTM Autoencoder flags unusual temporal patterns, and a DQN agent learns to adapt its signals over time. Wrapped in a dashboard that's meant to feel closer to a trading terminal than a demo project.
 
-- **₹623M** in stockout losses quantified across 18 months of synthetic retail data
-- **9.1%** unmet demand rate identified; top 10 SKUs drive 40% of revenue loss
-- Projected **₹415M** annual recovery by halving stockout rate
-- 6-page interactive Streamlit dashboard + Power BI reports with DAX measures
-- CI/CD via GitHub Actions; containerized with Docker
-
-`Python` `Pandas` `SQLite` `Streamlit` `Plotly` `Power BI` `Docker` `GitHub Actions`
+`Python` `PyTorch` `Streamlit` `Reinforcement Learning`
 
 ---
 
-### 🩺 Obesity Risk Predictor
-> End-to-end ML app with ensemble learning, REST API, and full deployment
+### Retail Inventory Intelligence Platform
+Built to answer a specific question: which SKUs are going to stock out, and what does that actually cost? Ran analysis on 18 months of retail data across stores and SKUs, built an interactive dashboard, and added Power BI reports with DAX for the business-facing side. CI/CD through GitHub Actions, containerized with Docker.
 
-Trained and benchmarked multiple classification models to predict individual obesity risk. Built a REST API backend and deployed a full-stack web app.
-
-`Python` `scikit-learn` `Flask` `JavaScript` `Railway` `Vercel`
+`Python` `Pandas` `SQLite` `Streamlit` `Power BI` `Docker`
 
 ---
 
-## 🧰 Stack
+### MindBridge
+Community mental health support platform — full-stack Flask + MySQL app with stored procedures, triggers, and cursors. Built for a DBMS course but took it further than required.
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**ML / AI**  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-**Web & Deployment**  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway)
+`Flask` `MySQL` `PL/SQL`
 
 ---
 
-## 📊 GitHub Stats
+## Stack
 
-[![Varish's GitHub stats](https://github-readme-stats.vercel.app/api?username=kapurV06&show_icons=true&theme=tokyonight)](https://github.com/kapurV06)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kapurV06&layout=compact&theme=tokyonight)](https://github.com/kapurV06)
+**Languages** — Python, C++, JavaScript, SQL, HTML/CSS  
+**ML / AI** — scikit-learn, TensorFlow, Keras, NumPy, Pandas, stable-baselines3, Groq API  
+**Data & Analytics** — Pandas, SciPy, Plotly, Power BI, SQLite, openpyxl, yfinance  
+**Web & Deployment** — Flask, Streamlit, Docker, GitHub Actions, Vercel, Render, Git  
 
 ---
 
-## 📬 Connect
+## Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-· kapur.varish75@email.com
+[LinkedIn](https://www.linkedin.com/in/varish-kapur-285118324/) · kapur.varish75@gmail.com
