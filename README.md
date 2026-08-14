@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Varish Kapur</h1>
+<h1 align="center"> Varish Kapur</h1>
 
 <p align="center">
   <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="420" />
@@ -127,5 +127,5 @@ Systems that survive real data
 </p>
 
 <p align="center">
-  <i>When I'm not shipping: boxing on Sundays, and lifting on a schedule.</i>
+  <i>When I'm not shipping: doing ds or binge-ing supernatural(the show has my heart).</i>
 </p>
