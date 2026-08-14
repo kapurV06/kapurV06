@@ -100,7 +100,6 @@ Reddit fan-theory aggregator with NLP topic clustering and AI-powered theory gen
 <p align="center">
   <img src="https://img.shields.io/github/followers/kapurV06?label=Followers&style=for-the-badge&color=blue"/>
   <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/kapurV06&label=Public%20Repos&query=public_repos&style=for-the-badge&color=orange"/>
-  <img src="https://img.shields.io/github/last-commit/kapurV06/FinSentinel?label=Last%20push%20(FinSentinel)&style=for-the-badge&color=success"/>
 </p>
 
 <p align="center">
