@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Varish Kapur</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&width=520&lines=Backend+%2B+ML+Engineer;Fintech+%7C+Anomaly+Detection+%7C+Agents;Currently%3A+Backend+AI+Intern+%40+FlyRank+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&width=520&lines=Backend+%2B+ML+Engineer;Fintech+%7C+Anomaly+Detection+%7C+Agents" alt="Typing SVG" />
 </p>
 
 <p align="center">
