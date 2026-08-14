@@ -1,7 +1,7 @@
-<h1 align="center"> Varish Kapur</h1>
+<h1 align="center">⚡ Varish Kapur</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="420" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&width=520&lines=Backend+%2B+ML+Engineer;Fintech+%7C+Anomaly+Detection+%7C+Agents;Currently%3A+Backend+AI+Intern+%40+FlyRank+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,20 +11,20 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Fintech%20%26%20ML%2FAI%20Engineering-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Goal-AI%20Safety%20Research-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Interest-Mechanistic%20Interpretability-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Intern-Backend%20AI%20%40%20FlyRank%20AI-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Member-Creative%20Computing%20Society-blueviolet?style=for-the-badge"/>
 </p>
 
 ---
 
 ## About Me
 
-CS undergrad at Thapar Institute of Engineering and Technology (class of 2028), currently working as a Backend AI Engineer intern at **FlyRank AI**. Most of what I build lives somewhere between research and production — anomaly detection, agentic pipelines, and systems that have to survive contact with real data.
+CS undergrad at Thapar Institute of Engineering and Technology (class of 2028), currently working as a Backend AI Engineer intern at **FlyRank AI**. Also part of the Creative Computing Society at TIET. Most of what I build lives somewhere between research and production — anomaly detection, agentic pipelines, and systems that have to survive contact with real data.
 
 * Fintech ML — anomaly detection, risk, market signal ensembles
 * Agentic systems — LangGraph, RAG, local + hosted LLM pipelines
-* Backend engineering — FastAPI, PostgreSQL, Docker
-* Currently exploring mechanistic interpretability for AI safety research (SPAR-track applications)
+* Backend engineering — FastAPI, PostgreSQL, Docker Compose
+* Coursework: Algorithms, DBMS, Computer Networks
 
 ---
 
@@ -75,10 +75,10 @@ Reddit fan-theory aggregator with NLP topic clustering and AI-powered theory gen
 
 ## Current Focus
 
-* Mechanistic interpretability research prep — applying to SPAR-track AI safety projects
-* Backend + infra: containerizing services with Docker Compose, PostgreSQL in production-shaped setups
-* DSA in C++ for OA rounds — closing a gap I used to avoid
-* Interview prep grounded in projects I actually built, not rehearsed answers
+* Backend + infra at FlyRank AI: containerizing services with Docker Compose, PostgreSQL in production-shaped setups
+* DSA in C++ for OA rounds
+* Interview prep grounded in projects I actually built
+* Reading up on mechanistic interpretability on the side
 
 ---
 
@@ -98,20 +98,21 @@ Reddit fan-theory aggregator with NLP topic clustering and AI-powered theory gen
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kapurV06&show_icons=true&hide_border=true&theme=default" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kapurV06&hide_border=true" height="165"/>
+  <img src="https://img.shields.io/github/followers/kapurV06?label=Followers&style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/kapurV06&label=Public%20Repos&query=public_repos&style=for-the-badge&color=orange"/>
+  <img src="https://img.shields.io/github/last-commit/kapurV06/FinSentinel?label=Last%20push%20(FinSentinel)&style=for-the-badge&color=success"/>
+</p>
+
+<p align="center">
+  <sub>Full commit graph and contribution calendar live on the <a href="https://github.com/kapurV06">profile page</a> itself — GitHub renders that natively, no widget needed.</sub>
 </p>
 
 ---
 
-## Areas I Care About
+## How I Build
 
-```text
-Shipped > Perfect
-Validated claims > Impressive-sounding claims
-Understanding the failure mode > Chasing the metric
-Systems that survive real data
-```
+I'd rather ship something smaller that I can defend under questioning than something impressive-sounding I can't explain. Most of my projects reflect that — FinSentinel's numbers are backed by bootstrap confidence intervals and event-anchored validation, not just a headline metric. If a result looks too good, my first move is to go find out why, not to write it up.
+
 
 ---
 
@@ -124,8 +125,4 @@ Systems that survive real data
   <a href="mailto:kapur.varish75@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
-</p>
-
-<p align="center">
-  <i>When I'm not shipping: doing ds or binge-ing supernatural(the show has my heart).</i>
 </p>
